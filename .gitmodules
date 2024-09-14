@@ -1,3 +1,4 @@
 [submodule "Bela"]
 	path = Bela
-	url = git@github.com:ebai101/Bela.git
+	url = https://github.com/cristianpandele/Bela.git
+	branch = master
