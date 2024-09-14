@@ -1,4 +1,4 @@
-FROM debian:buster
+FROM debian:bullseye-20240904-slim
 ENV DEBIAN_FRONTEND noninteractive
 
 COPY scripts/build_bela.sh \
