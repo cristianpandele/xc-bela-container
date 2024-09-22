@@ -21,10 +21,11 @@
 		"source=xc-bela-bashhistory,target=/commandhistory,type=volume"
 	],
 	"extensions": [
-		"llvm-vs-code-extensions.vscode-clangd",
 		"webfreak.debug",
 		"twxs.cmake",
 		"ms-vscode.cmake-tools",
-		"ms-vscode.cpptools"
+		"ms-vscode.cpptools",
+		"dan-c-underwood.arm",
+		"shardulm94.trailing-spaces",
 	]
 }
